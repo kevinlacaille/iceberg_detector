@@ -6,3 +6,4 @@ datetime
 rasterio
 alive_progress
 fiona
+shapely
