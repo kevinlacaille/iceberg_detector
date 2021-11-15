@@ -77,7 +77,7 @@ if __name__ == "__main__":
         plt.colorbar()
         plt.show()
 
-        plt.imshow(ndgi_lacaille)
+        plt.imshow(-ndgi_lacaille)
         plt.title("NDGI Lacaille (2021)")
         plt.colorbar()
         plt.show()
